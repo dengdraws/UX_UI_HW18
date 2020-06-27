@@ -83,7 +83,7 @@ color: #54CBF1;
     height: 700px;
     margin: 0 auto;
     padding: 20 20 20 20;
-    background-image: url(images/bg2.png);
+    background-image: url("images/bg2.png");
     background-repeat: no-repeat;
     background-size: 1400, 580;
     text-align: center;
